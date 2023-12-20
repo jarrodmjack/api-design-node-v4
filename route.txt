@@ -1,0 +1,6 @@
+Product
+GET /products (list of all products?)
+GET /product/:id
+POST /product
+PUT /product/:id
+DELETE /product/:id
